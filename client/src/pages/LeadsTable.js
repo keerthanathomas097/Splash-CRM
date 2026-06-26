@@ -10,15 +10,19 @@ const SECTORS = [
   'Flooring & Wall Coverings',
   'Food & Beverage',
   'Furniture',
-  'Gifts & Lifestyle Products',
+  'Gifts, Stationery & Lifestyle Products',
   'Home Decor & Accessories',
+  'Home Fragrance & Wellness Products',
   'Home Textiles & Soft Furnishings',
+  'Household Storage & Organization',
   'Industry Association & Trade Body',
   'Interior Design & Architecture Services',
+  'Kitchenware, Cookware & Drinkware',
   'Lighting, Electrical & Technology',
   'Logistics & Supply Chain Services',
   'Luxury Textiles & Home Furnishings',
   'Security, Safety & Surveillance Technology',
+  'Tableware & Glassware',
 ];
 
 function LeadsTable() {
